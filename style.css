@@ -1,6 +1,7 @@
 
 header {
-    height: 50px;
+    box-sizing: border-box;
+    height: 120px;
     width: 500px;
     padding: 20px;
     border: 20px solid black;
@@ -9,6 +10,7 @@ header {
     font-size: 40px;
     font-weight: bold;
     text-align: center; 
+   
     
 }
 
